@@ -19,3 +19,7 @@ Suppose we have three types of characters in a GameApp.
   - CastSpell
   - ShootArrow
   - SwingSword
+ 
+
+UML Diagram:
+![UML Diagram](https://github.com/angelynbondoc/StrategyPattern/blob/main/UML%20Diagram.png)
